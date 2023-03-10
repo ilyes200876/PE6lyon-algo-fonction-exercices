@@ -1,4 +1,4 @@
-// Exercie palindrome
+// Exercice palindrome
 <?php
 
 function chekWord($tab)
