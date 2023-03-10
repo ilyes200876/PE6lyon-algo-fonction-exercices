@@ -1,5 +1,5 @@
+// Exercie palindrome
 <?php
-
 
 function chekWord($tab)
 {
